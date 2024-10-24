@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="horizontal"
+    >
+    <View
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@color/verde"
+        android:layout_weight="2"
+        />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:orientation="vertical"
+        >
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:background="#EB8E8F"
+            android:layout_weight="2"
+            />
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:background="#EB5182"
+            android:layout_weight="2"
+            />
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:background="#C687D2"
+            android:layout_weight="2"
+            />
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:background="#A991D3"
+            android:layout_weight="2"
+            />
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:background="#9292D9"
+            android:layout_weight="2"
+            />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="#FCDA76"
+        android:layout_weight="2"
+        />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:orientation="vertical"
+        >
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:background="#83C2F6"
+            android:layout_weight="2"
+            />
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:background="#74CDF8"
+            android:layout_weight="2"
+            />
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:background="#73E5DF"
+            android:layout_weight="2"
+            />
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:background="#72C2BC"
+            android:layout_weight="2"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            android:layout_weight="2"
+            >
+            <View
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="#AD1A19"
+                android:layout_weight="2"
+                />
+            <View
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="#7B1046"
+                android:layout_weight="2"
+                />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="#401580"
+                android:layout_weight="2"
+                />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="#0F3E95"
+                android:layout_weight="2"
+                />
+            <View
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="#005459"
+                android:layout_weight="2"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
